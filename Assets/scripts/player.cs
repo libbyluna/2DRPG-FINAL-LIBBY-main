@@ -6,10 +6,11 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
+
    private BoxCollider2D boxCollider;
    private Vector3 moveDelta;
-    private RaycastHit2D hit;
- 
+   private RaycastHit2D hit;
+
 
     private void Start()
     {
