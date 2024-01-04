@@ -1858,27 +1858,6 @@ TextureImporter:
       name: treschest_2
       rect:
         serializedVersion: 2
-        x: 320
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55c962af9e737d846a846c6e4bc2c0ea
-      internalID: 527285714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: treschest_3
-      rect:
-        serializedVersion: 2
         x: 336
         y: 80
         width: 16
@@ -1897,7 +1876,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: treschest_1
+      name: chest_empty_1
       rect:
         serializedVersion: 2
         x: 304
@@ -2094,7 +2073,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2115,7 +2094,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2136,7 +2115,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2157,7 +2136,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2165,6 +2144,48 @@ TextureImporter:
       bones: []
       spriteID: 7f7e67de9b4967946ae628fc508c9433
       internalID: 334100153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_empty_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2651d195abea8aa47a96b82723b6cb1c
+      internalID: -2053458679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_mstr_key_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044bbe4ef5b5e0549ba0b6cabe4a6e7a
+      internalID: -1107115703
       vertices: []
       indices: 
       edges: []
@@ -2180,6 +2201,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Chest_mstr_key_2: -1107115703
       Player_0: 880572522
       Player_1: 1377886387
       Player_2: 1483861614
@@ -2193,6 +2215,8 @@ TextureImporter:
       TEST_NPC2: 654532782
       TEST_NPC3: 334100153
       TEST_NPC4: 1234530056
+      chest_empty_1: -53719636
+      chest_empty_2: -2053458679
       crate_1: 1190512959
       crate_2: 793986184
       door_0: -2104118284
@@ -2255,9 +2279,7 @@ TextureImporter:
       tower_withwall3: -1787522145
       tower_withwall4: 740147784
       tower_withwall5: -1209399582
-      treschest_1: -53719636
-      treschest_2: 527285714
-      treschest_3: -263567668
+      treschest_2: -263567668
       wall-above-right-corner: 1641056377
       wall-bottomleftcorner: -557792729
       wall-bottomrightcorner: -414328329
