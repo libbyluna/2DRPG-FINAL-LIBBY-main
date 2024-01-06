@@ -2190,6 +2190,447 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: sword_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ce83b055cca24b995515291bc521c
+      internalID: 424027334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132154c113c3e4c439b5ce06f413dd0d
+      internalID: -1541762484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3126664695b6b04459b734d9a4fdd188
+      internalID: 290924845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 447
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379af04112e55a94e8c827791d1a76a7
+      internalID: 58693985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_med_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9673f9c8944ac44b9eb03b79ff214bb
+      internalID: -105292022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_med_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370495b6f85955243b80119c4a7c5ceb
+      internalID: 1400162027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_large_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d82ffb2ad90e4db246de21f35596c
+      internalID: 744906359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_large_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb37a17102b40448d26a57d1ca31ce
+      internalID: -42770855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46d2f149f768d44985b9e18eaf927e
+      internalID: -1468979413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d780beb62487ac49abac0fcbc1a17f7
+      internalID: 370356061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_small
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997d16288c9d0848bb940fb9a2096ae
+      internalID: 1321497840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_big_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205f698bc73a8e84c85afc6e7acdc285
+      internalID: 100199325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_big_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8f61c7b23d2841992c69a84fb2895
+      internalID: 1836730585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow_neutral_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f227651056c6d0d43a03bd5ca566c363
+      internalID: -1779102637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow_neutral_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ae37c48cae62458726ea204a878dc
+      internalID: -203747824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f485ea1f33152e4d8a622fe2cc0b1d1
+      internalID: 1341213801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow_action_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e33303e80204c41a11f6f7eb681d75
+      internalID: -550785927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow_action_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e1d94ac7782b74bb85ff2c684e0056
+      internalID: 1392422477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e8619c448e0264ba3cc4a41ee896eb
+      internalID: 1940532095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katana_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 431
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb96b0c8b4a6454d8bdfd304033a368
+      internalID: 438140951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katana_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4fe80be30e14b408ce183c97f55b1f
+      internalID: -1790007087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2201,6 +2642,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Atlas_11: -1943360984
+      Atlas_12: -616197051
       Chest_mstr_key_2: -1107115703
       Player_0: 880572522
       Player_1: 1377886387
@@ -2215,8 +2658,21 @@ TextureImporter:
       TEST_NPC2: 654532782
       TEST_NPC3: 334100153
       TEST_NPC4: 1234530056
+      arrow_1: 1341213801
+      arrow_2: 1940532095
+      axe_big_1: 100199325
+      axe_big_2: 1836730585
+      axe_med_1: -105292022
+      axe_med_2: 1400162027
+      axe_small: 1321497840
+      bow_action_1: 1392422477
+      bow_action_2: -550785927
+      bow_neutral_1: -1779102637
+      bow_neutral_2: -203747824
       chest_empty_1: -53719636
       chest_empty_2: -2053458679
+      club_1: -1541762484
+      club_2: 58693985
       crate_1: 1190512959
       crate_2: 793986184
       door_0: -2104118284
@@ -2262,6 +2718,8 @@ TextureImporter:
       heart_empty: 201073776
       heart_full: 556463659
       heart_half: 1161347556
+      katana_1: 438140951
+      katana_2: -1790007087
       ladder: 266744758
       level_0: -1352541217
       level_1: 1346648228
@@ -2270,9 +2728,15 @@ TextureImporter:
       spikes_03: -1037332749
       spikes_1: -1572820887
       spikes_2: -27395474
+      staff_1: -1468979413
+      staff_2: 370356061
       stairs_down: 477625252
       switch_0: -1888535674
       switch_1: -1276364866
+      sword_1: 290924845
+      sword_2: 424027334
+      sword_large_1: 744906359
+      sword_large_2: -42770855
       tower_0: -281625597
       tower_1: -1819980398
       tower_2: -150264441
