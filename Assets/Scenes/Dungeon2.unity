@@ -11349,14 +11349,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3390345856143681431, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: PlayerPosition.x
-      value: 0.306
-      objectReference: {fileID: 0}
-    - target: {fileID: 3390345856143681431, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: PlayerPosition.y
-      value: -1.477
-      objectReference: {fileID: 0}
     - target: {fileID: 4323209284280670896, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -11400,22 +11392,6 @@ PrefabInstance:
     - target: {fileID: 4323209284280670896, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5432232348793514315, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5432232348793514315, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.079
-      objectReference: {fileID: 0}
-    - target: {fileID: 5432232348793514315, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.516
-      objectReference: {fileID: 0}
-    - target: {fileID: 6522505040713029479, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
-      propertyPath: sceneBuildIndex
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6671941294353268263, guid: 9e4b7eeebb93dc94b9ccc1f608e5eed3, type: 3}
       propertyPath: m_Name
@@ -123349,7 +123325,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1851236442}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.306, y: -1.477, z: 0}
+  m_LocalPosition: {x: 5.379, y: 4.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -142970,7 +142946,7 @@ TilemapCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2019394306}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
